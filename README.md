@@ -1,5 +1,4 @@
 # student_result_management_system
-# Student Result Management System
 
 ## Problem Statement
 Develop a Student Result Management System using Python that allows users to store, update,
@@ -19,4 +18,4 @@ logical structuring skills in Python.
 ## Technologies Used
 - Python
 
-## Project Structure
+
